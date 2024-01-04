@@ -1,2 +1,3 @@
 # Dataset for thermal camera gesture recognition
 Using a MLX90640 24x32 thermal sensor.
+![image](https://github.com/ali20480/thermal_gesture_data/assets/10224818/0959b936-94d6-4f05-8654-b787c071aa8d)
